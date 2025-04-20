@@ -45,6 +45,7 @@ After installing the dependencies, run the project by executing the Python scrip
 
 
 - python final_book_tracker.py
+  
 Make sure your webcam is connected and accessible, and the book cover image is present in the book_img directory as book_cover.jpg.
 
 The program will prompt you to select the region of interest (ROI) on the book cover image for tracking. Then it will start the webcam feed and track the book cover in real-time, displaying tracking visualizations and performance metrics.
